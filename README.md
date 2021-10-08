@@ -10,12 +10,9 @@ B-School is a Educational Responsive web design template with a modern style the
 
 Credits
 =======
-Framework  http://getbootstrap.com
-Images	(http://unsplash.com - CC0 licensed) and used form (google.com)
-http://www.track2realty.com/
-
-
-Icons	Font Awesome (http://fortawesome.github.com/Font-Awesome/)
+* [Framework](http://getbootstrap.com)
+* Images	- (http://unsplash.com - CC0 licensed) and used form (google.com)
+* [Icons	Font Awesome](http://fortawesome.github.com/Font-Awesome/)
 
 
 
